@@ -1,0 +1,92 @@
+.nav
+{
+    border: 1px solid white;
+    border-radius: 20px;
+    background-color: white;
+    color: black;
+}
+.sec
+{
+    background-image: url(./image/banner.jpg);
+    height:670px;
+    background-size: cover;
+}
+.nav1
+{
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.nav2
+{
+    border-radius: 15px;
+    background-color:lightgray;
+    color: black;
+    padding: 10px;
+}
+.class1
+{
+    font-size: 40px;
+}
+.ul
+{
+    color: black;
+}
+.sec1
+{
+    background-image: url(./image/DotCom.jpg);
+    background-size: cover;
+    height: 250px;
+    position:relative;
+}
+.start
+{
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: bold;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.img6
+{
+    width: 50px;
+}
+.img3
+{
+    margin-left: 15px;
+}
+.img
+{
+    width: 30px;
+}
+ul
+{
+    list-style-type: none;
+}
+li
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.back
+{
+background-color: black;
+}
+.img4
+{
+    width: 150px;
+}
+.img5
+{
+    width: 160px;
+}
+
+.navbar-toggler
+{
+    color: white;
+    background-color: white;
+}
